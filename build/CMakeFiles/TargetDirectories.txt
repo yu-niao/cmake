@@ -1,0 +1,5 @@
+D:/github/cmake/cmake/build/CMakeFiles/edit_cache.dir
+D:/github/cmake/cmake/build/CMakeFiles/rebuild_cache.dir
+D:/github/cmake/cmake/build/src/CMakeFiles/test.dir
+D:/github/cmake/cmake/build/src/CMakeFiles/edit_cache.dir
+D:/github/cmake/cmake/build/src/CMakeFiles/rebuild_cache.dir
