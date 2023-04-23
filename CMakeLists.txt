@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.26 FATAL_ERROR)
 
 project(test
     VERSION         0.0.1
-    DESCRIPTION     "Eglinux's cmake study test repo"
-    HOMEPAGE_URL    "公众号: eglinux"
+    DESCRIPTION     "the cmake demo of yu-niao"
+    HOMEPAGE_URL    "https://github.com/yu-niao/cmake"
     LANGUAGES       CXX
 )
 

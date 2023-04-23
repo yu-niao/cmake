@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/github/cmake/cmake/build/src",
-  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=c++2a -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\test.dir\\cmake.cpp.obj -c D:\\github\\cmake\\cmake\\src\\cmake.cpp",
-  "file": "D:/github/cmake/cmake/src/cmake.cpp",
-  "output": "src/CMakeFiles/test.dir/cmake.cpp.obj"
-}
-]
